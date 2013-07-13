@@ -1,6 +1,5 @@
 <codeColors>
 	<colorGroup>
-
 		<!-- HTML -->
 		<syntaxColor id="CodeColor_HTMLText" text="#F8F8F2" />
 		<syntaxColor id="CodeColor_HTMLString" text="#E6DB74" />
@@ -15,7 +14,6 @@
 		<tagColor id="CodeColor_HTMLScript" text="#F92672" />
 		<tagColor id="CodeColor_HTMLStyle" text="#F92672" />
 		<tagColor id="CodeColor_HTMLTable" text="#F92672" />
-
 		<!-- CSS -->
 		<syntaxColor id="CodeColor_CSSImport" text="#F92672" />
 		<syntaxColor id="CodeColor_CSSMedia" text="#F92672" />
@@ -25,7 +23,6 @@
 		<syntaxColor id="CodeColor_CSSSelector" text="#A6E22E" />
 		<syntaxColor id="CodeColor_CSSString" text="#E6DB74" />
 		<syntaxColor id="CodeColor_CSSValue" text="#F8F8F2" />
-
 		<!-- Javascript -->
 		<syntaxColor id="CodeColor_JavascriptBracket" text="#F8F8F2" />
 		<syntaxColor id="CodeColor_JavascriptClient" text="#F8F8F2" />
@@ -42,7 +39,6 @@
 		<syntaxColor id="CodeColor_JavascriptJQueryIdentifier" text="#F92672" />
 		<syntaxColor id="CodeColor_JavascriptJQueryMethods" text="#FF0" />
 		<syntaxColor id="CodeColor_JavascriptJQueryObjects" text="#0F0" />
-
 		<!-- PHP -->
 		<syntaxColor id="CodeColor_PHPScriptBlock" text="#F8F8F2" />
 		<syntaxColor id="CodeColor_PHPScriptBracket" text="#F8F8F2" />
@@ -59,39 +55,32 @@
 		<syntaxColor id="CodeColor_PHPScriptTypes" text="#0CC" />
 		<syntaxColor id="CodeColor_PHPScriptVariables" text="#F8F8F2" />
 		<syntaxColor id="CodeColor_PHPScriptBuiltinVariables" text="#06F" />
-
 		<!-- XML -->
 		<syntaxColor id="CodeColor_XMLString" text="#E6DB74" />
 		<syntaxColor id="CodeColor_XMLComment" text="#75715E" />
 		<syntaxColor id="CodeColor_XMLNumber" text="#AE81FF" />
 		<syntaxColor id="CodeColor_XMLTag" text="#F92672" />
 		<syntaxColor id="CodeColor_XMLText" text="#F8F8F2" />
-
 		<!-- Template -->
 		<syntaxColor id="CodeColor_TemplateText" text="#75715E" />
 		<syntaxColor id="CodeColor_TemplateCommentText" text="#75715E" />
 		<syntaxColor id="CodeColor_TemplateCommentAttr" text="#75715E" />
-
 		<!-- Text File -->
 		<syntaxColor id="CodeColor_TextText" text="#f8f8f2" />
-
 		<!-- Java -->
 		<syntaxColor id="CodeColor_JavaJSP" text="#009999" />
 		<syntaxColor id="CodeColor_JavaImplicit" text="#999900" />
 		<syntaxColor id="CodeColor_JavaOther" text="#990099" />
-
 		<!-- JSP -->
 		<syntaxColor id="CodeColor_JSPPageOperator" text="#F8F8F2" />
 		<syntaxColor id="CodeColor_JSPTaglibOperator" text="#F8F8F2" />
 		<syntaxColor id="CodeColor_JSPIncludeOperator" text="#F8F8F2" />
-
 		<!-- DWTagLibrary -->
 		<tagColor id="DWTagLibrary_cfc" text="#990033" />
 		<tagColor id="DWTagLibrary_cfml" text="#990033" />
 		<tagColor id="DWTagLibrary_aspnetmmtags" text="#990033" />
 		<tagColor id="DWTagLibrary_aspnettemplates" text="#990033" />
 		<tagColor id="DWTagLibrary_aspnet" text="#990033" />
-
 		<!-- ASP -->
 		<syntaxColor id="CodeColor_ASPIncludeAttributes" text="#990099" />
 		<syntaxColor id="CodeColor_ASPDirOperator" text="#F8F8F2" />
@@ -100,19 +89,16 @@
 		<syntaxColor id="CodeColor_ASPNetCSharpKeywords" text="#990099" />
 		<syntaxColor id="CodeColor_ASPDirTagKeywords" text="#990033" />
 		<syntaxColor id="CodeColor_ASPDirString" text="#0000FF" />
-
 		<!-- VB -->
 		<syntaxColor id="CodeColor_VBSNative" text="#990099" />
 		<syntaxColor id="CodeColor_VBSConstants" text="#009999" />
 		<syntaxColor id="CodeColor_VBNetNative" text="#990099" />
 		<syntaxColor id="CodeColor_VBNetConstants" text="#009999" />
-
 		<!-- Spry -->
 		<syntaxColor id="CodeColor_SpryAttributes" text="#FF6208" />
 		<syntaxColor id="CodeColor_Spry_Tag_Normal" bgcolor="#F8DOAF" />
 		<syntaxColor id="CodeColor_Spry_Tag_Hover" bgcolor="#FF9B58" />
 		<syntaxColor id="CodeColor_Spry_Tag_Selected" bgcolor="#FF6D0C" />
-
 		<!-- Actionscript -->
 		<syntaxColor id="CodeColor_ActionscriptProperty" text="#000084" />
 		<syntaxColor id="CodeColor_ActionscriptNative" text="#000084" />
@@ -124,7 +110,6 @@
 		<syntaxColor id="CodeColor_ActionscriptString" text="#0000FF" />
 		<syntaxColor id="CodeColor_ActionscriptComment" text="#848284" />
 		<syntaxColor id="CodeColor_ActionscriptRemoting" text="#000084" />
-
 		<!-- AS -->
 		<syntaxColor id="CodeColor_ASCommBracket" text="#000099" />
 		<syntaxColor id="CodeColor_ASCommComment" text="#999999" />
@@ -140,7 +125,6 @@
 		<syntaxColor id="CodeColor_ASRemoteNumber" text="#FF0000" />
 		<syntaxColor id="CodeColor_ASRemoteReserved" text="#000099" />
 		<syntaxColor id="CodeColor_ASRemoteString" text="#0000FF" />
-
 		<!-- Others -->
 		<syntaxColor id="CodeColor_CFCommentText" text="#F8F8F2" />
 		<syntaxColor id="CodeColor_LibraryText" bgcolor="#FFFFCC" />
